@@ -4,14 +4,11 @@ this repository is for people waiting for nic.eu.org domain or just need a subdo
 
 ## domains avalable
 
-hyghj.eu.org
-active
-
-play451isthebest.eu.org
-active
-
-play451isthebest1.eu.org
-offline
+| Domain                  | Active              |
+| ----------------------- | ------------------- |
+| hyghj.eu.org            | :white_check_mark:  |
+| play451isthebest.eu.org | :white_check_mark:  |
+| play451isthebest1.eu.org| :red_circle:        |
 
 **if you want, you can also donate domains**
 ## dns records avalable
