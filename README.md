@@ -20,6 +20,7 @@ AAAA
 TXT
 SRV
 MS
+CNAME
 
 ## how to get a free subdomain
 1. fork this repository
