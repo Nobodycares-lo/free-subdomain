@@ -1,4 +1,4 @@
-# free-subdomain
+# free subdomain
 
 this repository is for people waiting for nic.eu.org domain or just need a subdomain with no restrictions. **please note that anything you do on these domains is not my fault**
 
