@@ -4,3 +4,5 @@ A = 1.1.1.1
 AAAA = idk
 srv = idk
 any other records
+
+i  agree to tos
