@@ -13,7 +13,7 @@ active
 play451isthebest1.eu.org
 offline
 
-**if you want you can also donate domains**
+**if you want, you can also donate domains**
 ## dns records avalable
 A
 AAAA
