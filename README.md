@@ -6,18 +6,20 @@ this repository is for people waiting for nic.eu.org domain or just need a subdo
 
 | Domain                  | Active              |
 | ----------------------- | ------------------- |
-| hyghj.eu.org            | :white_check_mark:  |
-| play451isthebest.eu.org | :white_check_mark:  |
+| hyghj.eu.org            | :green_circle:      |
+| play451isthebest.eu.org | :green_circle:      |
 | play451isthebest1.eu.org| :red_circle:        |
 
 **if you want, you can also donate domains**
 ## dns records avalable
-A
-AAAA
-TXT
-SRV
-MS
-CNAME
+| DNS   | Active          |
+| ----- | --------------- |
+| A     | :green_circle:  |
+| AAAA  | :green_circle:  |
+| TXT   | :green_circle:  |
+| CNAME | :green_circle:  |
+| SRV   | :green_circle:  |
+| NS    | :red_circle:    |
 
 ## how to get a free subdomain
 1. fork this repository
