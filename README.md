@@ -24,6 +24,6 @@ MS
 1. fork this repository
 2. go into one of the folders
 3. make a file in one of those folders titled (your-domain).txt
-4. in those files put any dns record that we provide
+4. in those files put your email at the top any dns record that we provide below it
 5. make a pull request
 **please note i need to put the dns records in by hand so it might take some time**
