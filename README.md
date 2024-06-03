@@ -45,10 +45,12 @@ this repository is for people waiting for nic.eu.org domain or just need a subdo
 ```
 email
 
-A = 1.1.1.1
-AAAA = idk
-srv = idk
-any other records
+A = IP
+AAAA = IP
+SRV = PRIORITY WEIGHT PORT TARGET
+TXT = CONTENT
+MX = MAIL_SERVER  PRIORITY
+CNAME = TARGET
 
 i  agree to tos
 ```
