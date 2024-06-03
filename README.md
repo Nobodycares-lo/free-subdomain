@@ -39,11 +39,12 @@ this repository is for people waiting for nic.eu.org domain or just need a subdo
 4. in those files put your email at the top any dns record that we provide below it
 5. put **i agree to tos** at the bottom
 6. make a pull request
+
 **please note i need to put the dns records in by hand so it might take some time**
 
 ### example txt file
 ```
-email
+email = YOUR_EMAIL
 
 A = IP
 AAAA = IP
@@ -52,6 +53,6 @@ TXT = CONTENT
 MX = MAIL_SERVER  PRIORITY
 CNAME = TARGET
 
-i  agree to tos
+i agree to tos
 ```
 

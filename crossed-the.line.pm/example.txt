@@ -1,8 +1,10 @@
-email
+email = YOUR_EMAIL
 
-A = 1.1.1.1
-AAAA = idk
-srv = idk
-any other records
+A = IP
+AAAA = IP
+SRV = PRIORITY WEIGHT PORT TARGET
+TXT = CONTENT
+MX = MAIL_SERVER  PRIORITY
+CNAME = TARGET
 
-i  agree to tos
+i agree to tos
