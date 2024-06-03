@@ -1,0 +1,6 @@
+email
+
+A = 1.1.1.1
+AAAA = idk
+srv = idk
+any other records
