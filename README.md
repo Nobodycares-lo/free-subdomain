@@ -27,5 +27,19 @@ CNAME
 2. go into one of the folders
 3. make a file in one of those folders titled (your-domain).txt
 4. in those files put your email at the top any dns record that we provide below it
-5. make a pull request
+5. put **i agree to tos** at the bottom
+6. make a pull request
 **please note i need to put the dns records in by hand so it might take some time**
+
+### example
+```
+email
+
+A = 1.1.1.1
+AAAA = idk
+srv = idk
+any other records
+
+i  agree to tos
+```
+
