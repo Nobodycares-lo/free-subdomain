@@ -4,10 +4,10 @@ this repository is for people waiting for nic.eu.org domain or just need a subdo
 
 ## table of contents
 
-https://github.com/playstation452/free-subdomain?tab=readme-ov-file#domains-avalable
-https://github.com/playstation452/free-subdomain?tab=readme-ov-file#dns-records-avalable
-https://github.com/playstation452/free-subdomain?tab=readme-ov-file#how-to-get-a-free-subdomain
-https://github.com/playstation452/free-subdomain?tab=readme-ov-file#example-txt-file
+1. [Domains avalable](https://github.com/playstation452/free-subdomain?tab=readme-ov-file#domains-avalable)
+2. [DNS records avalable](https://github.com/playstation452/free-subdomain?tab=readme-ov-file#dns-records-avalable)
+3. [How to make a free domain](https://github.com/playstation452/free-subdomain?tab=readme-ov-file#how-to-get-a-free-subdomain)
+4. [Example file](https://github.com/playstation452/free-subdomain?tab=readme-ov-file#example-txt-file)
 
 ### domains avalable
 
