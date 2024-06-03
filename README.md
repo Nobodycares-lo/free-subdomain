@@ -8,7 +8,9 @@ this repository is for people waiting for nic.eu.org domain or just need a subdo
 | ----------------------- | ---------------------- |
 | hyghj.eu.org            | :green_circle:         |
 | play451isthebest.eu.org | :green_circle:         |
-| play451isthebest1.eu.org| :yellow_circle:        |
+| play451isthebest1.eu.org| :green_circle:         |
+| get-back-to-work.gd     | :green_circle:         |
+| crossed-the.line.pm     | :green_circle:         |
 
 **if you want, you can also donate domains**
 ## dns records avalable
