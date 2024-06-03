@@ -2,7 +2,8 @@
 
 this repository is for people waiting for nic.eu.org domain or just need a subdomain with no restrictions. **please note that anything you do on these domains is not my fault**
 
-## domains avalable
+## table of contents
+### domains avalable
 
 | Domain                  | Active                 |
 | ----------------------- | ---------------------- |
@@ -14,7 +15,7 @@ this repository is for people waiting for nic.eu.org domain or just need a subdo
 | loves-to.run.place      | :green_circle:         |
 
 **if you want, you can also donate domains**
-## dns records avalable
+### dns records avalable
 | DNS   | Active          |
 | ----- | --------------- |
 | A     | :green_circle:  |
@@ -25,7 +26,7 @@ this repository is for people waiting for nic.eu.org domain or just need a subdo
 | MX    | :green_circle:  |
 | NS    | :red_circle:    |
 
-## how to get a free subdomain
+### how to get a free subdomain
 1. fork this repository
 2. go into one of the folders
 3. make a file in one of those folders titled (your-domain).txt
@@ -34,7 +35,7 @@ this repository is for people waiting for nic.eu.org domain or just need a subdo
 6. make a pull request
 **please note i need to put the dns records in by hand so it might take some time**
 
-### example
+### example txt file
 ```
 email
 
