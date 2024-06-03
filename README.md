@@ -19,6 +19,7 @@ this repository is for people waiting for nic.eu.org domain or just need a subdo
 | TXT   | :green_circle:  |
 | CNAME | :green_circle:  |
 | SRV   | :green_circle:  |
+| MX    | :green_circle:  |
 | NS    | :red_circle:    |
 
 ## how to get a free subdomain
