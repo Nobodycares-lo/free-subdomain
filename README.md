@@ -15,7 +15,6 @@ this repository is for people waiting for nic.eu.org domain or just need a subdo
 
 | Domain                  | Active                 |
 | ----------------------- | ---------------------- |
-| hyghj.eu.org            | :green_circle:         |
 | play451isthebest.eu.org | :green_circle:         |
 | play451isthebest1.eu.org| :green_circle:         |
 | get-back-to.work.gd     | :green_circle:         |
