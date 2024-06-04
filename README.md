@@ -22,6 +22,7 @@ this repository is for people waiting for nic.eu.org domain or just need a subdo
 | crossed-the.line.pm     | :green_circle:         |
 | loves-to.run.place      | :green_circle:         |
 | hates.publicvm.com      | :green_circle:         |
+| 1b1t.co                 | :green_circle:         |
 
 **if you want, you can also donate domains**
 ### dns records avalable
