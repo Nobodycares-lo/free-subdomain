@@ -2,6 +2,9 @@
 
 [![Hits](https://hits.sh/github.com/playstation452/free-subdomain.svg)](https://hits.sh/github.com/playstation452/free-subdomain/)
 
+Domain Count: 11
+DNS count: 6
+
 this repository is for people waiting for nic.eu.org domain or just need a subdomain with no restrictions. **please note that anything you do on these domains is not my fault**
 
 ## table of contents
