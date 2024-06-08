@@ -28,6 +28,9 @@ this repository is for people waiting for nic.eu.org domain or just need a subdo
 | not-a-virus.us.kg       | :green_circle:         |
 | pissbird.us.kg          | :green_circle:         |
 | play-mc.us.kg           | :green_circle:         |
+| irs.us.kg               | :green_circle:         |
+| is-very-gay.us.kg       | :green_circle:         |
+| is-a-nigger.us.kg        | :green_circle:         |
 
 **if you want, you can also donate domains**
 ### dns records avalable
